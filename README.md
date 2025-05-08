@@ -1,3 +1,4 @@
 # MMDP-Research-Paper
 
-```pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu128```
+- Demo Video -
+https://youtu.be/muJMTto75qE 
